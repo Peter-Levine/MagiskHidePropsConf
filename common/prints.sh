@@ -261,6 +261,7 @@ POCO X2 (10):POCO:POCO X2=POCO/phoenixin/phoenixin:10/QKQ1.190825.002/V12.0.2.0.
 POCO X3 NFC Europe (10 & 11):POCO:M2007J20CG=POCO/surya_eea/surya:10/QKQ1.200512.002/V12.0.7.0.QJGEUXM:user/release-keys__2020-11-01;POCO/surya_eea/surya:11/RKQ1.200826.002/V12.0.7.0.RJGEUXM:user/release-keys__2021-04-01
 POCO X3 NFC Global (10 & 11):POCO:M2007J20CG=POCO/surya_global/surya:10/QKQ1.200512.002/V12.0.7.0.QJGMIXM:user/release-keys__2020-11-01;POCO/surya_global/surya:11/RKQ1.200826.002/V12.5.1.0.RJGMIXM:user/release-keys__2021-07-01
 POCO X3 Pro Global (11):POCO:M2102J20SG=POCO/vayu_global/vayu:11/RKQ1.200826.002/V12.0.4.0.RJUMIXM:user/release-keys__2021-03-01
+POCO F4 Global (13):Xiaomi:22021211RI=POCO/munch_in/munch:12/RKQ1.211001.001/V13.0.5.0.SLMMIXM:user/release-keys__2023-02-05
 Razer Phone (7.1.1 & 8.1.0 & 9):Razer:Phone=razer/cheryl/cheryl:7.1.1/NMF26X-RZR-180118/3005:user/release-keys__2018-01-05;razer/cheryl/cheryl:8.1.0/OPM1.171019.011-RZR-180803/6033:user/release-keys__2018-07-05;razer/cheryl/cheryl:9/P-MR2-RC001-RZR-N/7083:user/release-keys__2019-11-05
 Razer Phone 2 (8.1.0 & 9):Razer:Phone 2=razer/cheryl2/aura:8.1.0/O-MR2-RC009-RZR-181124/2009:user/release-keys__2018-10-05;razer/cheryl2/aura:9/P-SMR7-RC003-RZR-210107/3225:user/release-keys__2021-02-05
 Realme X2 Pro (10):Realme:RMX1931=realme/RMX1931EEA/RMX1931L1:10/QKQ1.191021.002/1590460856:user/release-keys__2020-06-05
